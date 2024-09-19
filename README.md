@@ -1,0 +1,1 @@
+# Numerical-study-of-the-Minorsky-equation
